@@ -1,0 +1,9 @@
+# Library Management System Requirements
+# This project uses only Python standard library
+# No external packages required
+
+Python>=3.7
+# Uses built-in modules:
+# - sqlite3 (database)
+# - datetime (date/time operations)
+# - os (system operations)
