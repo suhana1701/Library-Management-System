@@ -4,7 +4,7 @@ A comprehensive Python-based Library Management System with a command-line inter
 
 ## Features
 
-### 📚 Book Management
+###  Book Management
 - Add new books with details (title, author, ISBN, publication year, category)
 - View all books in the library
 - Search books by title, author, or ISBN
@@ -12,7 +12,7 @@ A comprehensive Python-based Library Management System with a command-line inter
 - Delete books from the library
 - Track available quantity of each book
 
-### 👥 Member Management
+### Member Management
 - Register new library members
 - View all members and their details
 - Search members by name or email
@@ -21,7 +21,7 @@ A comprehensive Python-based Library Management System with a command-line inter
 - Track outstanding fines per member
 - View member borrowing history
 
-### 📤 Borrowing Management
+###  Borrowing Management
 - Record book borrowings with customizable duration
 - Automatic due date calculation
 - Return books with automatic fine calculation
@@ -29,14 +29,14 @@ A comprehensive Python-based Library Management System with a command-line inter
 - Identify and manage overdue books
 - Prevent borrowing if member has outstanding fines
 
-### 💰 Fine Management
+###  Fine Management
 - Automatic fine calculation for overdue books
 - View member fines and payment history
 - Record fine payments
 - Track outstanding library fines
 - Prevent new borrowings if outstanding fines exist
 
-### 📊 Reports & Statistics
+###  Reports & Statistics
 - Total books and availability statistics
 - Member statistics
 - Borrowing statistics
@@ -195,11 +195,3 @@ The system provides:
 - Export functionality (CSV, PDF)
 - Barcode scanning integration
 - Multi-user support with authentication
-
-## License
-
-This project is provided as-is for educational purposes.
-
-## Support
-
-For issues or questions, refer to the code comments and docstrings throughout the project.
